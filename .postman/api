@@ -10,6 +10,7 @@ files[] = {"id":"23244429-c941a35d-ee3e-4c6e-a2eb-7b358a8fd5e6","path":"New Coll
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
